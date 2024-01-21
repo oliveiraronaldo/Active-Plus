@@ -1,0 +1,21 @@
+    Azul Celeste (#87CEEB):
+        Um azul claro e suave, trazendo uma sensação de tranquilidade e frescor.
+
+    Azul Turquesa (#00CED1):
+        Um tom mais vibrante de azul claro, sugerindo vitalidade e energia.
+
+    Cinza Claro (#D3D3D3):
+        Um cinza claro neutro, proporcionando uma base suave para elementos de conteúdo.
+
+    Branco Suavizado (#F5F5F5):
+        Um branco suavizado, não tão brilhante, para fundos e áreas de conteúdo. Isso cria uma sensação de leveza.
+
+
+
+
+
+background ---   #001F3F
+
+#252763
+
+#343475
